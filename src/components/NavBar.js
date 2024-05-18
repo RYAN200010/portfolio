@@ -46,7 +46,7 @@ const NavBar = () => {
                     </Nav>
                     <span className='navbar-text'>
                         <div className='social-icon'>
-                            <a href='#'><img src={navIcon1} alt=''></img></a>
+                            <a href='www.baidu.com'><img src={navIcon1} alt=''></img></a>
                             <a href='#'><img src={navIcon2} alt=''></img></a>
                             <a href='#'><img src={navIcon3} alt=''></img></a>
                         </div>
